@@ -11,3 +11,8 @@ This project outlines the development of a Customer Service CRM on the Salesforc
 Objectives:
 
 The primary goals of this CRM are to enhance the bank's customer service operations by providing a single source of truth for all customer interactions, reducing case resolution times, and increasing customer satisfaction. The system aims to empower service agents with the right tools and information to resolve issues quickly and effectively, leading to improved customer loyalty and retention.
+
+
+
+githublink:https://github.com/RamadeviMuthineni/Salesforce_Customer_Service_Management_System-_for_Banks.git
+In this link i upload all the phases document of my project.
